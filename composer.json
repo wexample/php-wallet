@@ -3,7 +3,7 @@
   "description": "The credentials an application holds — named, typed, checked against their type —, the twin of wexample-wallet",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "autoload": {
     "psr-4": {
       "Wexample\\PhpWallet\\": "src/"
